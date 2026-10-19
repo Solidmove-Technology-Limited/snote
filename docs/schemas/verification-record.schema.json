@@ -1,0 +1,204 @@
+{
+"$schema": "https://json-schema.org/draft/2020-12/schema",
+"$id": "https://github.com/Solidmove-Technology-Limited/snote/blob/main/schemas/verification-record.schema.json",
+"title": "SNote Verification Record",
+"description": "Structured verification record for products, services, systems, and technology assets associated with SOLIDMOVE TECHNOLOGY LIMITED.",
+"type": "object",
+"required": [
+"verification_id",
+"name",
+"type",
+"legal_owner",
+"dpy_verification",
+"snote_verification",
+"founder_approval",
+"final_classification"
+],
+"properties": {
+"verification_id": {
+"type": "string"
+},
+"name": {
+"type": "string"
+},
+"type": {
+"type": "string",
+"enum": [
+"Product",
+"Service",
+"Platform",
+"System",
+"Infrastructure",
+"Other"
+]
+},
+"version": {
+"type": "string"
+},
+"owner": {
+"type": "string"
+},
+"ecosystem": {
+"type": "string",
+"default": "Steph-Tech"
+},
+"platform": {
+"type": "string"
+},
+"core": {
+"type": "string",
+"default": "DPY Core"
+},
+"intelligence": {
+"type": "string"
+},
+"integration": {
+"type": "string"
+},
+"legal_owner": {
+"type": "string",
+"const": "SOLIDMOVE TECHNOLOGY LIMITED"
+},
+"ownership_evidence": {
+"type": "string"
+},
+"company_attribution": {
+"type": "string"
+},
+"technical_evidence": {
+"type": "array",
+"items": {
+"type": "string"
+}
+},
+"repository": {
+"type": "string"
+},
+"deployment": {
+"type": "string"
+},
+"documentation": {
+"type": "string"
+},
+"working_application": {
+"type": "string"
+},
+"testing_evidence": {
+"type": "string"
+},
+"dpy_verification": {
+"type": "object",
+"required": [
+"passed_through_dpy_core",
+"status"
+],
+"properties": {
+"passed_through_dpy_core": {
+"type": "boolean"
+},
+"reference": {
+"type": "string"
+},
+"status": {
+"type": "string"
+},
+"date_checked": {
+"type": "string",
+"format": "date"
+}
+}
+},
+"snote_verification": {
+"type": "object",
+"required": [
+"result"
+],
+"properties": {
+"evidence_reviewed": {
+"type": "array",
+"items": {
+"type": "string"
+}
+},
+"result": {
+"type": "string",
+"enum": [
+"Verified",
+"Pending",
+"Rejected"
+]
+},
+"reference": {
+"type": "string"
+},
+"verification_date": {
+"type": "string",
+"format": "date"
+},
+"reviewer": {
+"type": "string"
+}
+}
+},
+"founder_approval": {
+"type": "object",
+"required": [
+"required",
+"status"
+],
+"properties": {
+"required": {
+"type": "boolean",
+"const": true
+},
+"founder": {
+"type": "string",
+"const": "Stephen Osabuohein"
+},
+"status": {
+"type": "string",
+"enum": [
+"Pending",
+"Approved",
+"Rejected"
+]
+},
+"reference": {
+"type": "string"
+},
+"approval_date": {
+"type": "string",
+"format": "date"
+}
+}
+},
+"final_classification": {
+"type": "string",
+"enum": [
+"Unverified",
+"Pending Verification",
+"SNote Verified",
+"Official SolidMove Product",
+"Rejected",
+"Historical",
+"Not Owned by SolidMove"
+]
+},
+"official_solidmove_product": {
+"type": "boolean"
+},
+"evidence_notes": {
+"type": "string"
+},
+"decision": {
+"type": "string"
+},
+"reason": {
+"type": "string"
+},
+"next_review_date": {
+"type": "string",
+"format": "date"
+}
+}
+}
