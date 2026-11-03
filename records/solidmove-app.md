@@ -4,10 +4,10 @@ SOLIDMOVE TECHNOLOGY LIMITED
 
 1. Identification
 
-Verification ID: SM-SNOTE-SOLIDMOVE-APP-001
+Verification ID: SNOTE-SOLIDMOVE-APP-001
 Name: SolidMove App
 Type: Product / Application
-Version: Pending Verification
+Version: Not released
 Owner: SOLIDMOVE TECHNOLOGY LIMITED
 Ecosystem: Steph-Tech
 Workspace: OnSpace
