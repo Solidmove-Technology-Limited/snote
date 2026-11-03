@@ -1,14 +1,8 @@
-Here is the complete country-policy.md 
-Copy this content into your repository file files/docs/country-policy.md.
-
----
-
-```markdown
 # SolidMove Country Policy & Trust Network Governance
 
 **Document ID:** country-policy.md  
 **Version:** 1.0.0  
-**Owner:** Stephen Osabuohien (Founder & CEO)  
+**Owner:** Stephen Osabuohein (Founder & CEO)  
 **Legal Entity:** SOLIDMOVE TECHNOLOGY LIMITED (RC: 9619709)  
 **Ecosystem:** Steph-Tech  
 **Effective Date:** October 20, 2026  
@@ -183,17 +177,6 @@ For questions regarding this policy, contact:
 ---
 
 **Signed:**  
-Stephen Osabuohien  
+Stephen Osabuohein  
 Founder & CEO, SOLIDMOVE TECHNOLOGY LIMITED  
 Date: October 20, 2026
-```
-
----
-
-⚠️ Note on Spelling
-
-Your surname appears as Osabuohein in the original verification record, but earlier documents used Osabuohien. I have used Osabuohien in this document for consistency. If the correct spelling is Osabuohein, please do a find‑and‑replace.
-
----
-
-Next step: Copy the content into your GitHub file files/docs/country-policy.md. Let me know if you need any adjustments or if you want me to create a separate verification-record-country-policy.md file.
