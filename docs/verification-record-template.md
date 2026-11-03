@@ -1,6 +1,6 @@
-# SNote Verification Record — Template
+SNote Verification Record — Template
 
-Copy this file into `records/<asset-name>.md` and fill in only what you can evidence. Where evidence is missing, write `Pending Verification`. Delete these instructions when finished.
+Copy this file into `records/<asset-name>.md`, fill in only what you can evidence, and delete this instruction block. Where evidence is missing, write `Pending Verification`. Never guess.
 
 ---
 
@@ -8,79 +8,140 @@ SNote Verification Record
 
 SOLIDMOVE TECHNOLOGY LIMITED
 
-## 1. Identification
+1. Identification
 
-- Verification ID: SNOTE-<ASSET>-<NNN>
-- Name:
-- Type: Product / Service / Platform / System / Infrastructure / Other
-- Version:
-- Owner:
-- Division: Division 1 (Enterprise Software & Hardware) / Division 2 (Steph-Tech Ecosystem)
-- Ecosystem: Steph-Tech
-- Verification System: SNote
-- Record date:
+Verification ID: SNOTE-<ASSET>-<NNN>
+Name:
+Type: Product / Service / Platform / System / Infrastructure / Other
+Version:
+Owner:
+Division: Division 1 — Enterprise Software & Hardware / Division 2 — Steph-Tech Ecosystem
+Ecosystem: Steph-Tech
+Workspace:
+Verification System: SNote
+Record Date:
 
-## 2. Architecture
+2. Architecture
 
-- Platform:
-- Core:
-- Intelligence:
-- Integration:
-- Related systems:
+Platform:
+Core:
+Intelligence:
+Integration:
+Related Systems:
 
-## 3. Ownership
+3. Ownership
 
-- Legal owner:
-- Ownership evidence: (CAC records, assignment, contract, founder attestation)
-- Company attribution:
+Legal Owner: SOLIDMOVE TECHNOLOGY LIMITED
+Ownership Evidence: Pending Verification
+Company Attribution: Pending Verification
 
-## 4. Technical evidence
+4. Company Policy Review
 
-- Repository:
-- Deployment / live URL:
-- Documentation:
-- Observed function:
-- Evidence reviewed on:
+Company Policy Status: Pending Verification
+Required Checks:
 
-## 5. Company policy review
+- Ownership and company attribution
+- Division classification
+- Technical evidence
+- Security and access controls
+- Documentation
+- Pyramide / DPY Core integration
+- SNote verification
+- Founder approval
 
-- [ ] Ownership and company attribution established
-- [ ] Division classification correct
-- [ ] Technical evidence sufficient
-- [ ] Security and access controls described
-- [ ] Documentation present
-- [ ] Pyramide / DPY Core integration status recorded
-- [ ] Naming consistent with official brand assets
+Policy Decision: Pending
 
-Policy decision: Pending
+5. Country / Regulatory Review
 
-## 6. Country / regulatory review
+Country/Jurisdiction: Nigeria
+Applicable Requirements: Pending Verification
+Regulatory Review: Pending Verification
 
-- Jurisdiction: Nigeria
-- Applicable requirements:
-- Regulatory review: Pending Verification
+6. Technical Evidence
 
-## 7. SNote verification
+Repository:
+Deployment / Live URL:
+Documentation:
+Observed Function:
+Evidence Reviewed On:
 
-- Verification status: Pending Verification
-- Reviewed by:
-- Review date:
-- Notes:
+7. Pyramide / DPY Core Verification
 
-## 8. Founder approval
+Pyramide Status: Pending Verification
+DPY Core Status: Pending Verification
+Verification Reference:
+Notes:
 
-- Approval status: Pending
-- Approved scope:
-- Approved by:
-- Approval date:
+8. SNote Verification
 
-## 9. Classification
+SNote Status: Pending Verification
+Evidence Reviewed By:
+Review Date:
+Notes:
 
-- Final classification: Pending Verification
-- Official SolidMove product: No
-- Reason:
-- Next review date:
+9. Founder Approval
 
----
+Approval Status: Pending
+Approved By:
+Approval Date:
+Approval Reference:
 
-SNote records verification status. It does not create ownership or corporate authority.
+10. Approval Scope
+
+Approved Item:
+Approved Version:
+Approved Scope:
+Limitations:
+
+11. Rejection / Escalation
+
+Rejection Status: Not Rejected
+Escalation Status: Not Escalated
+Reason:
+
+12. Final Classification
+
+Final Status: Pending Verification
+Official SolidMove Product: No
+SNote Verified: No
+Founder Approved: No
+
+13. Evidence Notes
+
+Evidence established:
+
+- 
+
+Evidence outstanding:
+
+- 
+
+14. Decision
+
+Decision:
+Reason:
+Decision Date:
+
+15. Audit Trail
+
+| Date | Action | By | Note |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+16. Governance Path
+
+Candidate Product → OnSpace → SNote Evidence Review → Company Policy → Country / Regulatory Policy → Ownership + Technical Evidence → Pyramide → DPY Core → SNote Verification → Founder Approval → Official SolidMove Product
+
+17. Negative-Control Rule
+
+Issue → Pending / Blocked → Re-review → Verified OR Rejected → Escalated if required → Confirmed / Reopened / Corrected / Reclassified
+
+18. Public Repository Safety
+
+This record must not contain passwords, API keys, private credentials, bank credentials, private contracts, sensitive personal information, or other confidential secrets.
+
+19. Verification Principle
+
+No sufficient evidence + no required SNote verification + no authorized human approval = no official SolidMove product status.
+
+AI assists. Humans decide.
