@@ -36,6 +36,14 @@ Never commit:
 
 Sensitive evidence must remain in an appropriate controlled storage system.
 
+## Record index
+
+| Record | Asset | Division | Status | Official product |
+| --- | --- | --- | --- | --- |
+| [solidmove-app.md](solidmove-app.md) | SolidMove App | Division 2 — Steph-Tech | Pending Verification | No |
+
+A record may be listed here only if the file exists in this directory. Status in the table must match the `Final Status` line inside the record; if the two disagree, the record file is authoritative and the table is wrong.
+
 Verification Authority
 
 SNote records verification status. It does not independently create company ownership or corporate authority.
