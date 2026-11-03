@@ -121,7 +121,7 @@ Disputes are resolved through:
 ## 6. Domain & Technical Governance
 
 ### 6.1 Official Domain
-The official domain of SolidMove is **solidmovetech.com**. All web traffic and corporate communications must use this domain. SSL/TLS encryption is enforced for all connections.
+**Domain status:** the Company does not currently hold a registered domain. The official public web presence is the GitHub Pages site at https://solidmove-technology-limited.github.io/website/. Corporate communications use the registered corporate email address. SSL/TLS encryption is enforced for all connections. This section must be updated once a domain is registered and DNS is configured.
 
 ### 6.2 Origin Isolation
 The Pyramide DPY backend (dpy-core-api) enforces **CORS origin isolation**. Only whitelisted origins (e.g., the corporate web portal) may access backend resources. All other requests are blocked.
@@ -177,7 +177,7 @@ This document is verified under **SNOTE-SMT-2026-002** and is an official SolidM
 
 For questions regarding this policy, contact:  
 **Email:** solidmovetechnologylimited@gmail.com  
-**Website:** https://solidmovetech.com  
+**Website:** https://solidmove-technology-limited.github.io/website/  
 **Address:** [Registered Office Address], Nigeria  
 
 ---
