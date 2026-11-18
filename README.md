@@ -2,7 +2,7 @@
 
 **SNote — SolidMove verification and evidence registry**
 
-SNote is the public verification register for products, services, platforms, systems and infrastructure associated with **SOLIDMOVE TECHNOLOGY LIMITED** (RC 9619709), the technology, software and systems architecture company behind the **Steph-Tech** ecosystem.
+SNote is the public verification register for products, services, platforms, systems and infrastructure associated with **SolidMove Technology LIMITED** (RC 9619709), the technology, software and systems architecture company behind the **Steph-Tech** ecosystem.
 
 SNote records one thing and records it honestly: whether a given item has been evidenced, reviewed and approved as an official SolidMove product, and what the current verification status is.
 
@@ -62,6 +62,6 @@ Candidate → OnSpace → SNote evidence review → Company policy → Country/r
 
 ## Contact
 
-SOLIDMOVE TECHNOLOGY LIMITED, Benin City, Edo State, Nigeria
+SolidMove Technology LIMITED, Benin City, Edo State, Nigeria
 Email: solidmovetechnologylimited@gmail.com
 Web: https://solidmove-technology-limited.github.io/website/
